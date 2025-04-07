@@ -69,6 +69,7 @@ public class MyClass   {
         // String
         String myFullName = "Dimitrijs Jonins"; // immutable
         String mfn = new String("Nikita Milka");
+        String hw = "Hello world";
 
     }
 }
