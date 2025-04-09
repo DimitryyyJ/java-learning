@@ -48,7 +48,9 @@ public class MyClass   {
         System.out.println(squareRoot);
         double piDouble = Math.PI;
         System.out.println(pi);
+        System.out.println(piNumber);
         System.out.println(piDouble);
+
 
         // char
         char initial = 'N';
