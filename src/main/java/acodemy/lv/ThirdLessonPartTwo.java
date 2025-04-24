@@ -1,5 +1,7 @@
 package acodemy.lv;
 
+import org.w3c.dom.ls.LSOutput;
+
 public class ThirdLessonPartTwo {
     public static void main(String[] args) {
         int summa = add(1, 4);
@@ -25,8 +27,8 @@ public class ThirdLessonPartTwo {
     }
 
     public static int add(int a, int b, int c){
-        int result = a+b+c;
-        return result;
+        int rr = biggestNumbers(1, 3);
+        return rr;
     }
 
     public static void greet(String name) {
@@ -42,6 +44,7 @@ public class ThirdLessonPartTwo {
         }
     }
 
+
     public static int biggest(int a, int b, int c){
         return Math.max(Math.max(a,b),c);
     }
@@ -54,6 +57,9 @@ public class ThirdLessonPartTwo {
             }
         }return max;
     }
+
+
+
 
 
 }
