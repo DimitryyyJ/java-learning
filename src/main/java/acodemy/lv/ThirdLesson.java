@@ -138,7 +138,19 @@ public class ThirdLesson {
 
 
         }
+
+
+
+
+
+
+
+
+
     }
+
+
+
 
     // 1 till 20,
     // print numbers that can be divided by 3 and 5
